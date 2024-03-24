@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yurri775&label=Profile%20views&color=0e75b6&style=flat" alt="yurri775" /> </p>
 <p align="center"> <img src=https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif alt="yurri775" /> </p>
-<p align="center">https://user-images.githubusercontent.com/6661165/116633521-adbc8800-a994-11eb-97c4-e45a32721491.png alt="yurri775" /> </p>
+<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover alt="yurri775" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yurri amr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yurri amr" height="30" width="40" /></a>
