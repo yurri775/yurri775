@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm yurri775</h1>
 <h3 align="center">A passionate frontend developer from Morroco</h3>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+<h3 align="center"> https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
