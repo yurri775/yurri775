@@ -12,6 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yurri775&show_icons=true&locale=en&layout=compact" alt="yurri775" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yurri775&show_icons=true&locale=en" alt="yurri775" /></p>
+<p>&nbsp;<img align="center" src="https://camo.githubusercontent.com/368f0161347b5a26cf5bcbc0fe513c9e08c8506e306ef405bb62b111f6f49912/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5468696e6b7269676874323026686964655f626f726465723d747275652673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d67727576626f782662675f636f6c6f723d313531353135" alt="yurri775" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yurri775&" alt="yurri775" /></p>
