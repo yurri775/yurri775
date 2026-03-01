@@ -55,8 +55,8 @@ TensorFlow • PyTorch • Matlab
 
 ## Contact
 
-LinkedIn: (add your link)  
-Email: (add your email)  
+LinkedIn: https://www.linkedin.com/in/ayoub-amrani-773b0714b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Email: Ayoub.Amrani@uphf.fr
 Portfolio: https://amraniayoub.vercel.app/
 
 ---
