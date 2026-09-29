@@ -1,7 +1,7 @@
 ### Hi, I'm Ayoub 👋
 
-**Software engineer — Python & Java back-end, LLM-powered pipelines, production operations.**
-MSc in Computer Science (AI track), INSA Hauts-de-France, 2026 · Azure AZ-500 / AZ-104 / AZ-900 · Cisco CCNA
+**Software engineer — Python & Java back-end, LLM-powered pipelines, production operations.**\
+MSc in Computer Science (AI track), INSA Hauts-de-France, 2026 · Azure AZ-500 / AZ-104 / AZ-900 · Cisco CCNA\
 📍 Paris · open to full-time roles from **October 2026** (France & Luxembourg)
 
 ---
@@ -37,12 +37,12 @@ Qualiopi-certified training provider's e-learning platform — code, deployment 
 
 #### Stack
 
-**Languages** — Python, Java, SQL, TypeScript / JavaScript, C#
-**Back-end** — Spring Boot, FastAPI, Flask, Django, Odoo, REST, JWT / OAuth2
-**Data & AI** — PostgreSQL, MongoDB, Redis, Qdrant · LLM APIs, RAG, LangGraph, n8n · scikit-learn, PyTorch
+**Languages** — Python, Java, SQL, TypeScript / JavaScript, C#\
+**Back-end** — Spring Boot, FastAPI, Flask, Django, Odoo, REST, JWT / OAuth2\
+**Data & AI** — PostgreSQL, MongoDB, Redis, Qdrant · LLM APIs, RAG, LangGraph, n8n · scikit-learn, PyTorch\
 **Ops** — Docker, Nginx, Linux, Bash, GitHub Actions / GitLab CI · Azure (certified), AWS
 
 ---
 
-[Portfolio](https://amraniayoub.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ayoub-amrani-773b0714b) · amraniayoub846@gmail.com
+[Portfolio](https://amraniayoub.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ayoub-amrani-773b0714b) · amraniayoub846@gmail.com\
 *Français et arabe natifs · English C1*
