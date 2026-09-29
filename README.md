@@ -1,58 +1,48 @@
-<h1 align="center">Ayoub Amrani</h1>
-<h3 align="center">Software Engineer | AI & Full-Stack Developer | Cloud & Systems</h3>
+### Hi, I'm Ayoub 👋
 
-<p align="center">
-Portfolio: <a href="https://v0-amr-ayoub.vercel.app/" target="_blank"><strong>https://v0-amr-ayoub.vercel.app/</strong></a>
-</p>
-
----
-
-## Profile
-
-Master’s student in Computer Science with strong expertise in Artificial Intelligence, full-stack development, distributed systems and cloud architecture.
-
-I design and build scalable, production-ready systems with a focus on clean architecture, performance, and maintainability.
+**Software engineer — Python & Java back-end, LLM-powered pipelines, production operations.**
+MSc in Computer Science (AI track), INSA Hauts-de-France, 2026 · Azure AZ-500 / AZ-104 / AZ-900 · Cisco CCNA
+📍 Paris · open to full-time roles from **October 2026** (France & Luxembourg)
 
 ---
 
-## Technical Skills
+#### What I built most recently
 
-### Programming Languages
-Python • JavaScript • TypeScript • Java • C • C++ • C# • SQL
+During my final-year internship (StockData / IDC Academy, 2026) I was the sole engineer on a
+Qualiopi-certified training provider's e-learning platform — code, deployment and operations.
 
-### Web & Backend
-React • Angular • Node.js • Spring Boot • Django • Flask • .NET
+- **Learning platform** — a custom Odoo 17 module (~19,700 lines): verifiable certificates,
+  30-second attendance proof for regulatory audits, gamified progression, Stripe payments.
+  Found and fixed a certificate-forgery flaw by moving scoring server-side.
+- **Content production pipeline** — 15-step Python chain turning source documentation into
+  training modules (slides, synthetic voice-over, video, quizzes) with LLMs at six steps,
+  resumable and validated at each stage: **14 certification courses, 1,688 lessons, ~200 hours**
+  published in two months, including Kubernetes CKA and CKAD tracks.
+- **Production** — Docker, Nginx, TLS, signed-token media access, fail2ban, login rate
+  limiting, encrypted off-site backups.
 
-### Mobile & Cross-Platform
-Swift • Unity • Qt
+*The code belongs to the client and is private; happy to walk through it in an interview.*
 
-### Databases
-MongoDB • PostgreSQL • MySQL • Oracle • Cassandra
+#### Selected public projects
 
-### DevOps & Cloud
-Docker • AWS • Linux • Git • Bash
+| Project | What it is |
+|---|---|
+| [**palapi-pal-default**](https://github.com/yurri775/palapi-pal-default) | REST API in Java / Spring Boot + PostgreSQL, multi-stage Docker build, security-scanned |
+| [**test-mately**](https://github.com/yurri775/test-mately) | Real-time collaborative task manager — Node.js, Socket.io, MongoDB, React Native |
+| [**prospect-qualifier**](https://github.com/yurri775/prospect-qualifier) | Lead-qualification agent — n8n workflows, LLM (Groq), RAG on Qdrant, HubSpot sync |
+| [**rag**](https://github.com/yurri775/rag) | Five RAG pipelines in n8n, side by side, from basic vector search to contextual retrieval with re-ranking |
+| [**MAYA**](https://github.com/yurri775/MAYA) | Research project: face morphing, biometric vulnerability and membership-inference attacks |
+| [**nurse-rostering-vns**](https://github.com/yurri775/nurse-rostering-vns) | Nurse rostering solved with a Variable Neighbourhood Search metaheuristic |
+| [**kit-candidature**](https://github.com/yurri775/kit-candidature) | ATS-readable CVs and one-command application folders (LaTeX, python-docx) |
 
-### AI & Data
-TensorFlow • PyTorch • Matlab
+#### Stack
 
----
-
-## GitHub Statistics
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurri775&theme=default" />
-</p>
-
-
----
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/ayoub-amrani-773b0714b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-Email: Ayoub.Amrani@uphf.fr
-Portfolio: https://amraniayoub.vercel.app/
+**Languages** — Python, Java, SQL, TypeScript / JavaScript, C#
+**Back-end** — Spring Boot, FastAPI, Flask, Django, Odoo, REST, JWT / OAuth2
+**Data & AI** — PostgreSQL, MongoDB, Redis, Qdrant · LLM APIs, RAG, LangGraph, n8n · scikit-learn, PyTorch
+**Ops** — Docker, Nginx, Linux, Bash, GitHub Actions / GitLab CI · Azure (certified), AWS
 
 ---
 
-Open to internship opportunities, research collaborations, and high-impact engineering projects.
+[Portfolio](https://amraniayoub.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ayoub-amrani-773b0714b) · amraniayoub846@gmail.com
+*Français et arabe natifs · English C1*
