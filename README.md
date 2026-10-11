@@ -1,46 +1,60 @@
 ### Hi, I'm Ayoub 👋
 
-**Software engineer — Python & Java back-end, LLM-powered pipelines, production operations.**\
-MSc in Computer Science (AI track), INSA Hauts-de-France, 2026 · Azure AZ-500 / AZ-104 / AZ-900 · Cisco CCNA\
-📍 Paris · open to full-time roles from **October 2026** (France & Luxembourg)
+**Software engineer: LLM pipelines and agents, Python back-end, production operations.**\
+MSc in Computer Science, INSA Hauts-de-France, 2026 · Azure AZ-500 / AZ-104 / AZ-900 · Cisco CCNA\
+📍 Paris · open to full-time roles (France & Luxembourg)
+
+I build systems where a language model does real work at scale, and the engineering around it
+keeps the output correct: retries and fallbacks, validation with targeted repair, cost and
+latency journals, human review before anything ships.
 
 ---
 
-#### What I built most recently
-
-During my final-year internship (StockData / IDC Academy, 2026) I was the sole engineer on a
-Qualiopi-certified training provider's e-learning platform — code, deployment and operations.
-
-- **Learning platform** — a custom Odoo 17 module (~19,700 lines): verifiable certificates,
-  30-second attendance proof for regulatory audits, gamified progression, Stripe payments.
-  Found and fixed a certificate-forgery flaw by moving scoring server-side.
-- **Content production pipeline** — 15-step Python chain turning source documentation into
-  training modules (slides, synthetic voice-over, video, quizzes) with LLMs at six steps,
-  resumable and validated at each stage: **14 certification courses, 1,688 lessons, ~200 hours**
-  published in two months, including Kubernetes CKA and CKAD tracks.
-- **Production** — Docker, Nginx, TLS, signed-token media access, fail2ban, login rate
-  limiting, encrypted off-site backups.
-
-*The code belongs to the client and is private; happy to walk through it in an interview.*
-
-#### Selected public projects
+#### Open source
 
 | Project | What it is |
 |---|---|
-| [**palapi-pal-default**](https://github.com/yurri775/palapi-pal-default) | REST API in Java / Spring Boot + PostgreSQL, multi-stage Docker build, security-scanned |
-| [**test-mately**](https://github.com/yurri775/test-mately) | Real-time collaborative task manager — Node.js, Socket.io, MongoDB, React Native |
-| [**prospect-qualifier**](https://github.com/yurri775/prospect-qualifier) | Lead-qualification agent — n8n workflows, LLM (Groq), RAG on Qdrant, HubSpot sync |
+| [**guardloop**](https://github.com/yurri775/guardloop) | Harness for production LLM pipelines: retries and model fallback, rule-based validation with targeted repair, cost journal, resumable batches |
+| [**spec2diagram**](https://github.com/yurri775/spec2diagram) | Clean diagrams from a small JSON spec, rendered as SVG or as editable PowerPoint shapes |
+| [**doc2video**](https://github.com/yurri775/doc2video) | Markdown document to narrated lesson video: slides, voice-over, synchronised subtitles |
+
+The three fit together: a model plans the content inside **guardloop**'s guardrails,
+**spec2diagram** draws the diagrams, **doc2video** turns the lesson into a video.
+
+#### Final-year internship · StockData, for IDC Academy (Apr – Sep 2026)
+
+In charge of the technical delivery of an e-learning platform and of the pipeline that
+produces its content, with regular reviews of each delivery by my tutor.
+
+- **Learning platform**: a custom Odoo 17 module (~26,600 lines, 13 models, 75 routes,
+  156 tests): verifiable certificates, attendance traceability for quality audits, gamified
+  progression, online payment. Scoring centralised server-side for every exam.
+- **Content pipeline**: 15 steps, 7 of them calling a model, each output validated before
+  the next step: **14 certification courses, 1,573 lessons, ~190 hours** published in seven
+  weeks, including Kubernetes CKA and CKAD tracks. 2,298 model calls journaled.
+- **Production**: Docker, Nginx, TLS, signed-token media access, rate-limited login,
+  encrypted off-site backups.
+
+*That code belongs to the client and stays private. The open-source repositories above are
+independent rewrites of the techniques; happy to walk through the rest in an interview.*
+
+#### Other projects
+
+| Project | What it is |
+|---|---|
+| [**prospect-qualifier**](https://github.com/yurri775/prospect-qualifier) | Lead-qualification agent: n8n workflows, LLM, RAG on Qdrant, HubSpot sync |
 | [**rag**](https://github.com/yurri775/rag) | Five RAG pipelines in n8n, side by side, from basic vector search to contextual retrieval with re-ranking |
+| [**palapi-pal-default**](https://github.com/yurri775/palapi-pal-default) | REST API in Java / Spring Boot + PostgreSQL, multi-stage Docker build, security-scanned |
+| [**test-mately**](https://github.com/yurri775/test-mately) | Real-time collaborative task manager: Node.js, Socket.io, MongoDB, React Native |
 | [**MAYA**](https://github.com/yurri775/MAYA) | Research project: face morphing, biometric vulnerability and membership-inference attacks |
 | [**nurse-rostering-vns**](https://github.com/yurri775/nurse-rostering-vns) | Nurse rostering solved with a Variable Neighbourhood Search metaheuristic |
-| [**kit-candidature**](https://github.com/yurri775/kit-candidature) | ATS-readable CVs and one-command application folders (LaTeX, python-docx) |
 
 #### Stack
 
-**Languages** — Python, Java, SQL, TypeScript / JavaScript, C#\
-**Back-end** — Spring Boot, FastAPI, Flask, Django, Odoo, REST, JWT / OAuth2\
-**Data & AI** — PostgreSQL, MongoDB, Redis, Qdrant · LLM APIs, RAG, LangGraph, n8n · scikit-learn, PyTorch\
-**Ops** — Docker, Nginx, Linux, Bash, GitHub Actions / GitLab CI · Azure (certified), AWS
+**Languages**: Python, Java, SQL, TypeScript / JavaScript, C#\
+**LLM & data**: Claude and other LLM APIs, prompt caching, structured outputs, LangGraph, RAG, Qdrant, n8n · PostgreSQL, MongoDB, Redis · scikit-learn, PyTorch\
+**Back-end**: Odoo, FastAPI, Flask, Django, Spring Boot, REST, JWT / OAuth2\
+**Ops**: Docker, Nginx, Linux, Bash, ffmpeg, GitHub Actions / GitLab CI · Azure (certified), AWS
 
 ---
 
