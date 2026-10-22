@@ -1,5 +1,7 @@
 ### Hi, I'm Ayoub 👋
 
+🌐 **Portfolio: [yurri775.github.io](https://yurri775.github.io)** · [LinkedIn](https://www.linkedin.com/in/ayoub-amrani-773b0714b) · [CV (PDF)](https://yurri775.github.io/assets/cv/CV_Ayoub_Amrani.pdf)
+
 **Software engineer: LLM pipelines and agents, Python back-end, production operations.**\
 MSc in Computer Science, INSA Hauts-de-France, 2026 · Azure AZ-500 / AZ-104 / AZ-900 · Cisco CCNA\
 📍 Paris · open to full-time roles (France & Luxembourg)
