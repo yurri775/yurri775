@@ -60,5 +60,5 @@ independent rewrites of the techniques; happy to walk through the rest in an int
 
 ---
 
-[Portfolio](https://amraniayoub.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ayoub-amrani-773b0714b) · amraniayoub846@gmail.com\
+[Portfolio](https://yurri775.github.io) · [LinkedIn](https://www.linkedin.com/in/ayoub-amrani-773b0714b) · amraniayoub846@gmail.com\
 *Français et arabe natifs · English C1*
